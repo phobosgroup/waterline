@@ -1,4 +1,4 @@
-#Phobos Group Information Security Water Line Theory
+# Phobos Group Information Security Water Line Theory
 
 This document has been prepared in an effort to guide security efforts in the larger information security sphere. Our intention with authoring this document is to illustrate, with no ambiguity, the differences between the type of actors that behave in the "attacker" arena. 
 
